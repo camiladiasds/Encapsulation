@@ -1,0 +1,13 @@
+C:\Estudos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+C:\Estudos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+C:\Estudos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+C:\Estudos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+C:\Estudos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Estudos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Estudos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csprojAssemblyReference.cache
+C:\Estudos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+C:\Estudos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+C:\Estudos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Estudos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Estudos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Estudos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache
